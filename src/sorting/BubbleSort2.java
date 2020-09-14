@@ -7,8 +7,6 @@ package sorting;
 
 public class BubbleSort2 {
 	
-
-		
 		public static void main(String args[]) {
 			
 			int nums[] = {99, 4, 6, 8, 3,78, 998, 10, 98,100};
